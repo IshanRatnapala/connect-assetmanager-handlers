@@ -2,6 +2,13 @@
 
 Post and pre hooks for [connect-assetmanager](http://github.com/mape/connect-assetmanager)
 
+## What's "updated"?
+
+This package includes [fixes](https://github.com/mape/connect-assetmanager-handlers/pull/14/files) from @dzz0615 which updates the uglifyjs module used.
+
+
+
+
 ## Installation
 
 Via [npm](http://github.com/isaacs/npm):
