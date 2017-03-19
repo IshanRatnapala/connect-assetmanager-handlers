@@ -13,7 +13,7 @@ This package includes [fixes](https://github.com/mape/connect-assetmanager-handl
 
 Via [npm](http://github.com/isaacs/npm):
 
-    $ npm install connect-assetmanager-handlers
+    $ npm install connect-assetmanager-handlers-updated
 ## Usage
     var assetManager = require('connect-assetmanager');
     var assetHandler = require('connect-assetmanager-handlers');
